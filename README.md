@@ -1,4 +1,4 @@
 <h1>Hi there, I'm Nicolas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
 
-I’m a Data & Software Engineer | Building cloud-native data solutions with Python, Postgres, DBT, Redis, Docker & Linux.
-How i use LLMs? 90% for documentation, 5% for questions, 5% to rewrite my work messages... i like to think and solve issues with the remaining neurons that i got left.  🤓
+I’m a Data & Software Engineer | Building cloud-native data solutions, i love to use Linux and Vim.
+LLMs? 90% for documentation, 5% for questions, 5% to rewrite my work messages...
