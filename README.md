@@ -12,8 +12,11 @@ and having expertise in the following tools:
 - Ingestion Tools: Fivetran, Airbyte, JDBC.
 - IaC: Terraform
 - Data Platform: DataBricks
-- Warehouse: GBQ
+- OLAP DB: GBQ, Snowflake
 - OLTP DB: Postgres, Mysql.
 - Programming Languages: Bash, Python, HCL.
+- Python Libraries Related: SqlAlchemy, Pyspark, Pandas, Numpy.
+- Docker
+- DBT
 
 
