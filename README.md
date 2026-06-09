@@ -14,7 +14,7 @@ and having expertise in the following tools:
 - Data Platform: DataBricks
 - OLAP DB: GBQ, Snowflake
 - OLTP DB: Postgres, Mysql.
-- Programming Languages: Bash, Python, HCL.
+- Programming Languages: Bash, Python, HCL, C, LUA..
 - Python Libraries Related: SqlAlchemy, Pyspark, Pandas, Numpy.
 - Docker
 - DBT
